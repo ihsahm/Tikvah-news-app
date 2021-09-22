@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "54814125934",
+    "firebase_url": "https://tikvah-news.firebaseio.com",
+    "project_id": "tikvah-news",
+    "storage_bucket": "tikvah-news.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54814125934:android:e9a2e103b6bb2af9e01b7f",
+        "android_client_info": {
+          "package_name": "com.example.tikvah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54814125934-fennpaii0hqqm044g76sphp90g2ce6rs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm9cil0LzAQ8urdjRbkL5kn8iMI7QicD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54814125934-fennpaii0hqqm044g76sphp90g2ce6rs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
